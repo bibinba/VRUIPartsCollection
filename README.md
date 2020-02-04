@@ -1,4 +1,5 @@
 # VRUIPartsCollection
+[![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE.md)
 
 VR向けのUIパーツ集です。デスクトップ用2DUIとしても使用できます。
 
