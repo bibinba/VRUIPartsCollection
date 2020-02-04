@@ -1,5 +1,7 @@
 # VRUIPartsCollection
-[![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE.md)
+[![](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE.md)
+[![](https://img.shields.io/github/v/release/bibinba/VRUIPartsCollection?style=popout)]()
+[![](https://img.shields.io/badge/-Unity-000000.svg?logo=unity&style=popout)]()
 
 VR向けのUIパーツ集です。デスクトップ用2DUIとしても使用できます。
 
