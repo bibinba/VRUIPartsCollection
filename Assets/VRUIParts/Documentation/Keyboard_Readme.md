@@ -13,6 +13,9 @@ VRのみならず、デスクトップモードで2D状態でマウス入力な�
 * Unity2019.3.0f3,Unity2019.2.19f1
 * Oculus Quest(with OculusLink)
 * [XR Interaction Toolkit](https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@0.9/manual/index.html)
+*  [Oculus Integration](https://assetstore.unity.com/packages/tools/integration/oculus-integration-82022)
+* [VRTK](https://assetstore.unity.com/packages/tools/integration/vrtk-virtual-reality-toolkit-vr-toolkit-64131)
+* [MRTK2](https://github.com/microsoft/MixedRealityToolkit-Unity)
 
 ※Unity2018.Xでは動作しません。
 
@@ -56,6 +59,7 @@ VR用のToolkitを入れる
 * [XR Interaction Toolkit](https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@0.9/manual/index.html)
 * [Oculus Integration](https://assetstore.unity.com/packages/tools/integration/oculus-integration-82022)
 * [VRTK](https://assetstore.unity.com/packages/tools/integration/vrtk-virtual-reality-toolkit-vr-toolkit-64131)
+* [MRTK2](https://github.com/microsoft/MixedRealityToolkit-Unity)
   
 　etc
 
@@ -68,6 +72,8 @@ OculusIntegration　→　OVR Raycaster
 VRTK　→　VRTK_UICanvas
 
 ![](Images/RayCaster.png)
+
+MRTKはCanvasにつく「Convert to Unity Canvas」を押す
 
 ## 各ライブラリのメモ
 
