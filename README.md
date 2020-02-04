@@ -1,6 +1,6 @@
 # VRUIPartsCollection
 [![](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE.md)
-[![](https://img.shields.io/github/v/release/bibinba/VRUIPartsCollection?style=popout)]()
+[![](https://img.shields.io/github/v/release/bibinba/VRUIPartsCollection?style=popout)](https://github.com/bibinba/VRUIPartsCollection/releases)
 [![](https://img.shields.io/badge/-Unity-000000.svg?logo=unity&style=popout)]()
 
 VR向けのUIパーツ集です。デスクトップ用2DUIとしても使用できます。
@@ -27,7 +27,9 @@ PCのキーボードと同じように日本語と英語の切り替えができ
 * Windows10
 * Unity2019.3.0f3 , Unity2019.2.19f1
   
-Unity2018.Xでは動作しません。
+※Unity2018.Xでは動作しません。
+
+※Keyboardはネットワーク環境が必要です。
 
 # Third party assets
 
@@ -59,7 +61,7 @@ https://fonts.google.com/specimen/Roboto
 
 UnityPackage形式＆UnityProject形式で配布しています。
 
-UnityPackageはGithubのReleaseから最新のものをダウンロードしてください。
+UnityPackageはGithubの[Release](https://github.com/bibinba/VRUIPartsCollection/releases)から最新のものをダウンロードしてください。
 
 すべてのUIパーツが入ったものと、各UIパーツ個別のUnityPackageがあります。
 

@@ -14,7 +14,9 @@ VRのみならず、デスクトップモードで2D状態でマウス入力な�
 * Oculus Quest(with OculusLink)
 * [XR Interaction Toolkit](https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@0.9/manual/index.html)
 
-Unity2018.Xでは動作しません。
+※Unity2018.Xでは動作しません。
+
+※ネットワーク環境が必要です。
 # Add Third party assets
 
 以下のアセットを入れてください
